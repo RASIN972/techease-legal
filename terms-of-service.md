@@ -100,7 +100,7 @@ To the maximum extent permitted by law, we are not liable for any indirect, inci
 
 ## 12. Governing Law
 
-These Terms are governed by the laws of the State of [Your State], United States, without regard to conflict of law principles.
+These Terms are governed by the laws of the State of Texas, United States, without regard to conflict of law principles.
 
 ---
 
